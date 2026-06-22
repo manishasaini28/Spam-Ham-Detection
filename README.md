@@ -81,9 +81,9 @@ python app.py
 
 **Manisha Saini**
 
-- MCA Student
-- Python & Data Science Enthusiast
-- Web Development Learner
+- Aspiring Data Scientist
+- Python Developer
+- Machine Learning Enthusiast
 
 GitHub:
 https://github.com/manishasaini28
